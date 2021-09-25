@@ -1,6 +1,6 @@
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
 	url = https://github.com/NoahRR/nvim.git
-[submodule "archcraft-i3/.config/archcraft-i3-config"]
-	path = archcraft-i3/.config/archcraft-i3-config
+[submodule "archcraft-i3/.config/i3"]
+	path = archcraft-i3/.config/i3
 	url = https://github.com/NoahRR/archcraft-i3-config.git
