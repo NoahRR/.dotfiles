@@ -1,4 +1,4 @@
-###LINUX CONFIG FILES
+### LINUX CONFIG FILES
 Dependencies:
 - stow (apt install stow)
 
@@ -8,7 +8,7 @@ Usage:
 - use "stow */" to apply all config directories
 - use "stow {dir name}" to apply single config directory
 
-###ADDING NEW FILES
+### ADDING NEW FILES
 Default
 - add new folder for grouping (or add to existing folder)
 - once in folder, pretend you are in your home (~) directory
