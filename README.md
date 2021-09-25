@@ -21,5 +21,5 @@ git submodule add <git http link remote url> <dir>
 ```
 Example:
 ```
-git submodule add https://<USERNAME>:<ACCESS TOKEN>@github.com/NoahRR/nvim.git nvim/.config/nvim
+git submodule add https://github.com/NoahRR/nvim.git nvim/.config/nvim
 ```
