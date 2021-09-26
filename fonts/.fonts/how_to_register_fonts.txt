@@ -1,0 +1,3 @@
+## cp Agave/ ~/.local/share/fonts/
+
+cp fonts.ttf /usr/share/fonts/

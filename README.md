@@ -1,9 +1,14 @@
 ### LINUX CONFIG FILES
 Dependencies:
-- stow (apt install stow)
+- stow
 
 Usage:
 - in $HOME, clone this repo
+- install submodules
+```
+git submodule update --init --recursive
+git submodule update --recursive --remote
+```
 - go into folder
 - use "stow */" to apply all config directories
 - use "stow {dir name}" to apply single config directory
