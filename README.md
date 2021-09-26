@@ -1,6 +1,6 @@
 ### LINUX CONFIG FILES
 Dependencies:
-- stow (apt install stow)
+- stow
 
 Usage:
 - in $HOME, clone this repo
