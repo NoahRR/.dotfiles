@@ -1,0 +1,15 @@
+VULKAN
+lutris dependencies
+league of legends dependencies
+
+spotify
+discord
+firefox
+microsoft-edge-beta /-dev
+alacritty
+nvim
+i3-gaps i3lock
+stow
+deepin-screenshot
+slack
+trackpad support drivers
