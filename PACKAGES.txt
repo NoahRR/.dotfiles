@@ -8,8 +8,12 @@ firefox
 microsoft-edge-beta /-dev
 alacritty
 nvim
-i3-gaps i3lock
+i3-gaps i3lock i3-gnome
 stow
 deepin-screenshot
 slack
 trackpad support drivers
+bluez bluez-utils
+zsh
+polybar
+optimus-manager optimus-manager-qt
