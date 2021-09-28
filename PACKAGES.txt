@@ -17,3 +17,4 @@ bluez bluez-utils
 zsh
 polybar
 optimus-manager optimus-manager-qt
+copyq
