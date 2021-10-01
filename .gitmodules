@@ -4,3 +4,6 @@
 [submodule "archcraft-i3/.config/i3"]
 	path = archcraft-i3/.config/i3
 	url = https://github.com/NoahRR/archcraft-i3-config.git
+[submodule "alacritty/.config/alacritty"]
+	path = alacritty/.config/alacritty
+	url = https://github.com/NoahRR/alacritty.git
