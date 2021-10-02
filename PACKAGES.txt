@@ -20,3 +20,8 @@ optimus-manager optimus-manager-qt
 copyq
 playerctl
 light
+pulseaudio sof-firmware
+docker
+libsmbios
+auto-cpufreq
+bluetooth-autoconnect
