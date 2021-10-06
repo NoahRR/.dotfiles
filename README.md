@@ -1,4 +1,4 @@
-![alt text](https://github.com/NoahRR/.dotfiles/blob/master/SAVED_DOWNLOADS/SAVED_DOWNLOADS/images/BAK-AC.png?raw=true)
+![alt text](https://github.com/NoahRR/.dotfiles/blob/master/SAVED_DOWNLOADS/SAVED_DOWNLOADS/DeepinScreenshot_select-area_20211005220005.png?raw=true)
 
 ### LINUX CONFIG FILES
 Dependencies:
