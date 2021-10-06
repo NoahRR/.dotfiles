@@ -13,6 +13,14 @@ git submodule update --recursive --remote
 - use "stow */" to apply all config directories
 - use "stow {dir name}" to apply single config directory
 
+### INCLUDED
+- i3 config >> archcraft-i3/
+- nvim config >> nvim/
+- zsh config >> zsh-config/
+- fonts >> fonts/
+- alacritty >> alacritty/
+- desktop images >> SAVED_DOWNLOADS/
+
 ### ADDING NEW FILES
 Default
 - add new folder for grouping (or add to existing folder)
