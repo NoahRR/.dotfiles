@@ -28,3 +28,6 @@ libsmbios
 auto-cpufreq
 bluetooth-autoconnect
 https://aur.archlinux.org/chrome-gnome-shell.git
+bpytop
+thunderbird
+mailspring

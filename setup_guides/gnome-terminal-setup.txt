@@ -1,0 +1,13 @@
+1. disable to header menu (title bar). I think using a gnome tweaks extension
+2. set to use mostly bright colors
+3. set background transparency
+4. setup compton (picom)
+4. set to use nerd font agave
+5. add the following code to ~/.config/gtk-3.0/gtk.css
+        VteTerminal,
+        TerminalScreen,
+        vte-terminal {
+            padding: 10px 10px 10px 10px;
+            -VteTerminal-inner-border: 10px 10px 10px 10px;
+        }
+6. set background color to #282C34
