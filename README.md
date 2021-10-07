@@ -3,7 +3,7 @@ links to specific configs
 - neovim : https://github.com/NoahRR/nvim
 - i3 : https://github.com/NoahRR/archcraft-i3-config
 
-![alt text](https://github.com/NoahRR/.dotfiles/blob/master/SAVED_DOWNLOADS/SAVED_DOWNLOADS/DeepinScreenshot_select-area_20211005220005.png?raw=true)
+![alt text](https://github.com/NoahRR/.dotfiles/blob/master/images/Example-Setup.png?raw=true)
 
 ### LINUX CONFIG FILES
 Dependencies:
